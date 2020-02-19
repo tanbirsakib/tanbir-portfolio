@@ -3,6 +3,7 @@ h1{
 }
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .name-color{
     color: orange;
@@ -16,4 +17,9 @@ body{
 }
 .set-width img{
     width: 100%;
+}
+.set-backgroung{
+    background-image: url("images/top-banner.png");
+    height:500px;
+    background-repeat:no-repeat;
 }
